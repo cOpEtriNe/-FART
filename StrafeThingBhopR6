@@ -1,0 +1,7 @@
+game.Players.LocalPlayer.Character.Humanoid.JumpPower = 29
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 55
+-- Transparent baseplate (a literally baseplate only this may work for other game too)
+game.Workspace.Baseplate.Transparency = 0.40
+
+-- change values if u want to be faster or jump shorter idk.
+-- this scripts works better with r6 characters, the jumppower increased.
