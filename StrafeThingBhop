@@ -1,4 +1,5 @@
 while true do
+wait(1)
 game.Players.LocalPlayer.Character.Humanoid.JumpPower = 20
 game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 55
 -- Transparent baseplate (a literal baseplate only, this may work for other games too)
